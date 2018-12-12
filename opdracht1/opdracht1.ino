@@ -1,6 +1,12 @@
 void setup() {
   // put your setup code here, to run once:
-  digitalWrite(13, LOW);
+
+  
+
+int ledPin =13;
+ledPin (OUTPUT);
+digitalWrite(13, LOW);
+
 }
 
 void loop() {
